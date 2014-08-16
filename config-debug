@@ -1,2 +1,2 @@
-default-ip              : localhost
-default-port            : 3000
+default-ip              : nodejs-angularjswebrtc.rhcloud.com
+default-port            : 80

@@ -26,25 +26,7 @@
       <file leaf-file-name="websocketService.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/services/websocketService.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="403" column="0" selection-start="15663" selection-end="15663" vertical-scroll-proportion="-11.56" vertical-offset="6562" max-vertical-offset="7157">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="id_rsa.pub" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="0" selection-end="410" vertical-scroll-proportion="0.02977233" vertical-offset="0" max-vertical-offset="571">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tmp/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="12" column="30" selection-start="365" selection-end="365" vertical-scroll-proportion="-8.16" vertical-offset="0" max-vertical-offset="7157">
               <folding />
             </state>
           </provider>
@@ -53,7 +35,16 @@
       <file leaf-file-name="home.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="8" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="11" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="id_rsa.pub" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="98" selection-start="0" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
               <folding />
             </state>
           </provider>
@@ -68,10 +59,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config-debug" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config-debug" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config-debug">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="30" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+            <state line="1" column="28" selection-start="89" selection-end="89" vertical-scroll-proportion="0.02910959" vertical-offset="0" max-vertical-offset="584">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robots.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/robots.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/total.js/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="24" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.076923" vertical-offset="306" max-vertical-offset="1190">
               <folding />
             </state>
           </provider>
@@ -96,13 +105,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config-debug" />
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/controllers/default.js" />
         <option value="$PROJECT_DIR$/views/app.html" />
-        <option value="$PROJECT_DIR$/app/controllers/home.js" />
         <option value="$PROJECT_DIR$/app/services/webRTCService.js" />
         <option value="$PROJECT_DIR$/app/services/websocketService.js" />
+        <option value="$PROJECT_DIR$/app/controllers/home.js" />
+        <option value="$PROJECT_DIR$/node_modules/total.js/package.json" />
+        <option value="$PROJECT_DIR$/config-debug" />
       </list>
     </option>
   </component>
@@ -180,7 +190,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tmp" />
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="total.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs-websocket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-webRTC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -263,6 +291,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularjs-websocket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-webRTC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -429,58 +475,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/services-websocketService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="77" selection-start="77" selection-end="77" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/_layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-debug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="30" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/controllers-home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="26" selection-start="250" selection-end="250" vertical-scroll-proportion="0.060390763" vertical-offset="0" max-vertical-offset="563">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/app.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="30" selection-start="119" selection-end="119" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="8" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <folding />
         </state>
       </provider>
@@ -492,16 +489,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/_layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="563">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="30" selection-start="119" selection-end="119" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/services/websocketService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="403" column="0" selection-start="15663" selection-end="15663" vertical-scroll-proportion="-11.56" vertical-offset="6562" max-vertical-offset="7157">
+        <state line="12" column="30" selection-start="365" selection-end="365" vertical-scroll-proportion="-8.16" vertical-offset="0" max-vertical-offset="7157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="0" selection-end="410" vertical-scroll-proportion="0.02977233" vertical-offset="0" max-vertical-offset="571">
+        <state line="0" column="98" selection-start="0" selection-end="410" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/total.js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="24" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.076923" vertical-offset="306" max-vertical-offset="1190">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-debug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="28" selection-start="89" selection-end="89" vertical-scroll-proportion="0.02910959" vertical-offset="0" max-vertical-offset="584">
           <folding />
         </state>
       </provider>
