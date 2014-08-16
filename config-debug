@@ -1,2 +1,2 @@
-default-ip              : nodejs-angularjswebrtc.rhcloud.com
-default-port            : 80
+default-ip              : process.env.OPENSHIFT_NODEJS_IP
+default-port            : process.env.OPENSHIFT_NODEJS_PORT
