@@ -50,19 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/_layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="425">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config-debug" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config-debug" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-debug">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="28" selection-start="89" selection-end="89" vertical-scroll-proportion="0.02910959" vertical-offset="0" max-vertical-offset="584">
+            <state line="1" column="28" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
               <folding />
             </state>
           </provider>
@@ -77,19 +68,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/total.js/package.json">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/total.js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="24" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.076923" vertical-offset="306" max-vertical-offset="1190">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/app.html">
+      <file leaf-file-name="mail.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/total.js/mail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="30" selection-start="119" selection-end="119" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="493">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nosql.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/total.js/nosql.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/total.js/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="36" selection-start="974" selection-end="974" vertical-scroll-proportion="0.0" vertical-offset="3156" max-vertical-offset="3706">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/total.js/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="22" selection-start="699" selection-end="699" vertical-scroll-proportion="0.648855" vertical-offset="306" max-vertical-offset="1190">
               <folding />
             </state>
           </provider>
@@ -111,8 +129,8 @@
         <option value="$PROJECT_DIR$/app/services/webRTCService.js" />
         <option value="$PROJECT_DIR$/app/services/websocketService.js" />
         <option value="$PROJECT_DIR$/app/controllers/home.js" />
-        <option value="$PROJECT_DIR$/node_modules/total.js/package.json" />
         <option value="$PROJECT_DIR$/config-debug" />
+        <option value="$PROJECT_DIR$/node_modules/total.js/package.json" />
       </list>
     </option>
   </component>
@@ -440,27 +458,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/default.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="24" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/default.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="24" selection-start="231" selection-end="239" vertical-scroll-proportion="-4.76" vertical-offset="51" max-vertical-offset="799">
@@ -524,6 +521,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config-debug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="28" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
@@ -531,16 +535,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/total.js/package.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/total.js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="24" selection-start="700" selection-end="700" vertical-scroll-proportion="-13.076923" vertical-offset="306" max-vertical-offset="1190">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config-debug">
+    <entry file="file://$PROJECT_DIR$/node_modules/total.js/mail.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="28" selection-start="89" selection-end="89" vertical-scroll-proportion="0.02910959" vertical-offset="0" max-vertical-offset="584">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/total.js/nosql.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/total.js/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="36" selection-start="974" selection-end="974" vertical-scroll-proportion="0.0" vertical-offset="3156" max-vertical-offset="3706">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/total.js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="22" selection-start="699" selection-end="699" vertical-scroll-proportion="0.648855" vertical-offset="306" max-vertical-offset="1190">
           <folding />
         </state>
       </provider>
