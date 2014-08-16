@@ -1,2 +1,2 @@
-default-ip              : process.env.OPENSHIFT_NODEJS_IP
-default-port            : process.env.OPENSHIFT_NODEJS_PORT
+default-ip              : localhost
+default-port            : 3000
