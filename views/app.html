@@ -1,0 +1,24 @@
+@{meta('Angular.js WebSocket Chat', 'description', 'keywords')}
+
+<!-- /app/services/ -->
+@{ngService('websocketService')}
+
+<!-- /app/css/ -->
+@{ngStyle('app')}
+
+<!-- cdnjs -->
+@{ngLocale('en-us')}
+
+<!-- /app/controllers/ -->
+@{ngController('home')}
+
+<div ng-controller="HomeCtrl" class="content">
+
+    <video id="vid1" autoplay="true" muted="true"></video>
+    <video id="vid2" autoplay></video>
+
+</div>
+
+
+
+@{ngTemplate('list')}
